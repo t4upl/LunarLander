@@ -1,0 +1,1 @@
+{"grawitacja":9.800000190734864,"iloscPaliwa":100.0,"silaCiagu":20.0,"silaPrzechylania":1.0,"masaRakiety":1.0}
